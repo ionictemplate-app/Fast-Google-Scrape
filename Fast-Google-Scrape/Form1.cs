@@ -17,4 +17,7 @@ namespace Fast_Google_Scrape
             InitializeComponent();
         }
     }
+
+    private void Test()
+    { }
 }
