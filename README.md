@@ -33,35 +33,35 @@
 <h2><strong> Amazing Features</strong></h2>
 <ul>
 
-       <li><p><strong>✅Installation file</strong></p></li>
-	   <li><p><strong>✅Support Google Engine</strong></p></li>
-	   <li><p><strong>✅Support country selection</strong></p></li>
-	   <li><p><strong>✅Support language</strong></p></li>
-	   <li><p><strong>✅Support Http Proxy</strong></p></li>
-	   <li><p><strong>✅Support Proxy polling</strong></p></li>
-	   <li><p><strong>✅Support No Proxy mode</strong></p></li>
-       <li><p><strong>✅Scraper Email</strong></p></li>
-	   <li><p><strong>✅Scraper Phone Number(formatted)</strong></p></li>
-	   <li><p><strong>✅Support Bulk keyword </strong></p></li>
-	   <li><p><strong>✅Support Business|Person Email </strong></p></li>
-	   <li><p><strong>✅Support custom domain </strong></p></li>
-       <li><p><strong>✅Scraper LinkedIn</strong></p></li>
-	   <li><p><strong>✅Scraper Facebook</strong></p></li>
-	   <li><p><strong>✅Scraper Instagram</strong></p></li>
-	   <li><p><strong>✅Scraper Youtube</strong></p></li>
-	   <li><p><strong>✅Scraper Pinterest</strong></p></li>
-	   <li><p><strong>✅Scraper Twitter</strong></p></li>
-	   <li><p><strong>✅Scraper TikTok</strong></p></li>
-	   <li><p><strong>✅Scraper Tumblr</strong></p></li>
-	   <li><p><strong>✅Scraper Title,Phone,Email,Website</strong></p></li>
-	   <li><p><strong>✅Bulk url import</strong></p></li>
-	   <li><p><strong>✅Bulk url extract email | phone</strong></p></li>
-	   <li><p><strong>✅Multi-threaded email extract</strong></p></li>
-	   <li><p><strong>✅Crawl email|phone from URL webpage</strong></p></li>
-	   <li><p><strong>✅Support Import Http Proxy List</strong></p></li>
-	   <li><p><strong>✅Export Excel</strong></p></li>
-	   <li><p><strong>✅Easy Scraper data</strong></p></li>
-	   <li><p><strong>✅More....</strong></p></li>
+       ✅Installation file
+   ✅Support Google Engine
+   ✅Support country selection
+   ✅Support language
+   ✅Support Http Proxy
+   ✅Support Proxy polling
+   ✅Support No Proxy mode
+   ✅Scraper Email
+   ✅Scraper Phone Number(formatted)
+   ✅Support Bulk keyword 
+   ✅Support Business|Person Email 
+   ✅Support custom domain 
+   ✅Scraper LinkedIn
+   ✅Scraper Facebook
+   ✅Scraper Instagram
+   ✅Scraper Youtube
+   ✅Scraper Pinterest
+   ✅Scraper Twitter
+   ✅Scraper TikTok
+   ✅Scraper Tumblr
+   ✅Scraper Title,Phone,Email,Website
+   ✅Bulk url import
+   ✅Bulk url extract email | phone
+   ✅Multi-threaded email extract
+   ✅Crawl email|phone from URL webpage
+   ✅Support Import Http Proxy List
+   ✅Export Excel
+   ✅Easy Scraper data
+   ✅More....
 </ul>
 
 <h2><strong>Screenshot</strong></h2>
