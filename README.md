@@ -20,7 +20,6 @@
 <p><strong>Multi-threaded batch crawling URL page content(email,phone)</strong></p>
 <p><strong>Lifetime license</strong></p>
 
-<img src="https://i.ibb.co/kxdg2nV/discount.png" alt="Fast Google Email|Phone Extract Pro-support-discount" border="0">
 
 <img src="https://i.ibb.co/nrvfTnH/01lifetime.png" alt="Fast Google Email|Phone Extract Pro-support-lifetime" border="0"/>
 
